@@ -98,6 +98,7 @@ This project is open for educational and research purposes. Feel free to use, mo
 ## 👤 Author
 
 **Francis Mutabazi**
+
 Aspiring AI Engineer & Healthtech Advocate
 
 Passionate about leveraging technology for preventive healthcare and youth empowerment in Africa.
