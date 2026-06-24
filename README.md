@@ -37,7 +37,7 @@ The models are designed to power mobile screening tools, community health worker
 - **Source**: [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) on Kaggle
 - **Size**: ~100,000 records
 - **Features**: Age, BMI, HbA1c level, blood glucose, hypertension, heart disease, smoking history, gender, etc.
-- **Target**: Binary diabetes diagnosis (imbalanced dataset)
+- **Target**: Binary diabetes diagnosis
 
 ---
 
@@ -66,7 +66,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow joblib
 
 3. Download the dataset:
 
-- Place **diabetes_prediction_dataset.csv in the project root**
+- Place **diabetes_prediction_dataset.csv** in the project roo
 
 4. Open the notebook:
 ```bash
